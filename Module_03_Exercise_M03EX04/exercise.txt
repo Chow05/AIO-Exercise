@@ -1,25 +1,15 @@
-1) (c) Giá trị trung bình
-2)  (a) Logistic Regression
-3) (b)
-4)  (d) Root Node
-5)  (b) Leaf Node
-6) 
-(a)
-    (b) X ≤8
-
-(b)
-    (d) 20
-
-(c)
-    (d) 32
-7) (b) 0.38
-8) (d) Tránh overfitting
-9) (c) n_estimators
-10) (a) Bootstrap Aggregating
-11) 
-(a)
-    (c) 5.0
-
-(b)
-    (c) 3.75
-12) (b) 0.46
+1. C
+2. A
+3. B
+4. D
+5. B
+6.a. C
+6.b. B
+6.c. D
+7. B
+8. D
+9. C
+10. A
+11.a. B
+11.b. C
+12. B
